@@ -4,7 +4,7 @@
 <head>
              <strong>
              <center><p>WELCOME</p></center>
-             <center><p>THIS WEBSITE FOR YOU <font color="red">@RINECAINE</p></center></font>
+             <center><p>THIS WEBSITE FOR <font color="red">YOU</p></center></font>
              </strong>
 </head>
 <br>
